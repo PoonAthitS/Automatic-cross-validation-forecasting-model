@@ -1,6 +1,6 @@
 # Automatic cross validation forecasting model
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
-* Technologies: R, cross-validation, ARIMA, ETS, Error measures, forecast
+* Technologies: R, cross-validation, Error measures, forecast
 ## 1. Introduction
 
 ## 2. About the model
