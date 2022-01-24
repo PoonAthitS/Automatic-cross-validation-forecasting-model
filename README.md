@@ -4,6 +4,7 @@
 ## 1. Introduction
 
 ## 2. About the model
+<img src="https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model/blob/main/IMAGES/Process%20of%20the%20model%20selection.png?raw=true" width="600">
 
 ## 3. Key findings
 
