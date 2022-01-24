@@ -16,7 +16,7 @@ lapply(c("tidyverse", "dplyr", "gridExtra", "data.table", "lubridate", # general
         library, character.only = TRUE)
 ```
 
-# Part 2: Batch Forecasting
+# Batch Forecasting
 
 ## 1. Data Extraction and prepare statistics function
 
