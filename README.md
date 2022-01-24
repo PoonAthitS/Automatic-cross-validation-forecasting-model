@@ -2,6 +2,7 @@
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
 * Technologies: R, cross-validation, Error measures, forecast
 ## 1. Introduction
+Since its inception in 2000, the M3 competition datasets have been used to evaluate a variety of time series forecasting methods and analyses. It is expected to be one of the standard time-series datasets used to demonstrate various aspects of forecasting in numerous studies. The purpose of this project is to develop an automatic models suitable for batch forecasting (large amount of time series) based on monthly M3 data sets. It uses automatic exponential smoothing and automatic ARIMA modelling techniques in conjunction with the model selection strategy and cross-validation methodology to achieve the highest possible accuracy for the error measures chosen. The model may be advantageous to users or organisations when a large number of monthly time series are aimed to be predicted over an 18-month horizon. 
 
 ## 2. About the model
 <img src="https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model/blob/main/IMAGES/Process%20of%20the%20model%20selection.png?raw=true" width="600">
