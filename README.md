@@ -31,10 +31,7 @@ The example of the forecasts from the model is produced as the above image, whic
 
 ## 4. About the programming
 
-### 4.1 Files
-The model is developed in [R markdown notebook.](https://github.com/PoonAthitS/automatic-cross-validation-forecasting-model/blob/main/Automatic_cross_validation_model_M3Comp.rmd)
-
-### 4.2 Data
+### Data
 Thr data is from the 3003 time series from the M3 competition which embeded in package Mcomp
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
