@@ -32,7 +32,7 @@ The example of the forecasts from the model is produced as the above image, whic
 ## 4. About the programming
 
 ### Data
-Thr data is from the 3003 time series from the M3 competition which embeded in package Mcomp
+The data is from the 3003 time series from the M3 competition which embeded in package Mcomp
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
 
